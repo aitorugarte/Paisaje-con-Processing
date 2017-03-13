@@ -1,2 +1,2 @@
 # Paisaje-con-Processing
-¡Mi primer paisaje!
+Mis paisajes en 3D de la asignatura Interacción y Multimedia.
